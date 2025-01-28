@@ -2,12 +2,15 @@
 
 Este repositório contém testes automatizados E2E para o frontend e API da aplicação Serverest.
 
+
+## 🔗 Links Importantes
+
 - **Frontend:** [https://front.serverest.dev/](https://front.serverest.dev/)  
 - **API:** [https://serverest.dev/](https://serverest.dev/)
 
 ---
 
-## Pré-requisitos
+## 📋 Pré-requisitos
 
 Antes de começar, certifique-se de ter as ferramentas abaixo instaladas:
 
@@ -17,7 +20,7 @@ Antes de começar, certifique-se de ter as ferramentas abaixo instaladas:
 
 ---
 
-## Instalação
+## 🚀 Instalação
 
 1. Clone o repositório
 2. Acesse o repositorio do projeto
@@ -27,7 +30,7 @@ Antes de começar, certifique-se de ter as ferramentas abaixo instaladas:
    ```
 
 
-## Executando os Testes
+## ⚡ Executando os Testes
 1. Abra a interface interativa do Cypress:
    ```bash
    npx cypress open
